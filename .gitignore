@@ -1,0 +1,13 @@
+test.php
+
+## .net ignore files
+bin/
+obj/
+*.user
+*.suo
+*.sln
+*.csproj
+*.vbproj
+*.dbmdl
+*.pdb
+*.mdb
